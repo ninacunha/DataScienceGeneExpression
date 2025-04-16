@@ -1,3 +1,2 @@
-Gene Expression Data Science Project
-
-*Note* inital data file is too large, needs to be downloaded locally
+Tumor feature dataset
+Goal: predict benign or malignant tumor based on features of the tumor
