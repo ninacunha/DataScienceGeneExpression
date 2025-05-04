@@ -1,2 +1,4 @@
 Tumor feature dataset
 Goal: predict benign or malignant tumor based on features of the tumor
+Used cross validation to get feature importances and tune hyper parameters for a random forest model
+evaluated RF model on test and training data
